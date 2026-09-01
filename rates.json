@@ -1,1 +1,408 @@
-
+{
+  "success": true,
+  "data": [
+    {
+      "code": "USD",
+      "currency": "دلار آمریکا (USD)",
+      "rate": 1310661
+    },
+    {
+      "code": "EUR",
+      "currency": "یورو (EUR)",
+      "rate": 1551964
+    },
+    {
+      "code": "CNY",
+      "currency": "یوان چین (CNY)",
+      "rate": 188931
+    },
+    {
+      "code": "AED",
+      "currency": "درهم امارات (AED)",
+      "rate": 356885
+    },
+    {
+      "code": "KRW",
+      "currency": "هزار وون کره جنوبی (KRW)",
+      "rate": 903036
+    },
+    {
+      "code": "RUB",
+      "currency": "روبل روسیه (RUB)",
+      "rate": 17113
+    },
+    {
+      "code": "JPY",
+      "currency": "یکصد ین ژاپن (JPY)",
+      "rate": 845285
+    },
+    {
+      "code": "INR",
+      "currency": "روپیه هند (INR)",
+      "rate": 14386
+    },
+    {
+      "code": "AFN",
+      "currency": "افغانی افغانستان (AFN)",
+      "rate": 20191
+    },
+    {
+      "code": "AMD",
+      "currency": "یکصد درام ارمنستان (AMD)",
+      "rate": 346935
+    },
+    {
+      "code": "AUD",
+      "currency": "دلار استرالیا (AUD)",
+      "rate": 915826
+    },
+    {
+      "code": "AZN",
+      "currency": "منات آذربایجان (AZN)",
+      "rate": 770852
+    },
+    {
+      "code": "BDT",
+      "currency": "تاکای بنگلادش (BDT)",
+      "rate": 1071869
+    },
+    {
+      "code": "BGN",
+      "currency": "لو بلغارستان (BGN)",
+      "rate": 1106902
+    },
+    {
+      "code": "BHD",
+      "currency": "دینار بحرین (BHD)",
+      "rate": 3485802
+    },
+    {
+      "code": "BRL",
+      "currency": "ریل برزیل (BRL)",
+      "rate": 250021
+    },
+    {
+      "code": "BYN",
+      "currency": "روبل بلاروس (BYN)",
+      "rate": 459.027
+    },
+    {
+      "code": "CAD",
+      "currency": "دلار کانادا (CAD)",
+      "rate": 959833
+    },
+    {
+      "code": "CHF",
+      "currency": "فرانک سوییس (CHF)",
+      "rate": 1691667
+    },
+    {
+      "code": "COP",
+      "currency": "صد پزو کلمبیا (COP)",
+      "rate": 35770
+    },
+    {
+      "code": "CZK",
+      "currency": "صد کرونا جمهوری چک (CZK)",
+      "rate": 6393416
+    },
+    {
+      "code": "DKK",
+      "currency": "کرون دانمارک (DKK)",
+      "rate": 207788
+    },
+    {
+      "code": "DZD",
+      "currency": "یکصد دینار الجزایر (DZD)",
+      "rate": 1010874
+    },
+    {
+      "code": "EGP",
+      "currency": "پوند مصر (EGP)",
+      "rate": 27911
+    },
+    {
+      "code": "GBP",
+      "currency": "پوند بریتانیا (GBP)",
+      "rate": 1787007
+    },
+    {
+      "code": "GEL",
+      "currency": "لاری گرجستان (GEL)",
+      "rate": 487855
+    },
+    {
+      "code": "GNF",
+      "currency": "صد فرانک گینه (GNF)",
+      "rate": 14944
+    },
+    {
+      "code": "HKD",
+      "currency": "دلار هنگ کنگ (HKD)",
+      "rate": 167834
+    },
+    {
+      "code": "HNL",
+      "currency": "لمپیرا هندوراس (HNL)",
+      "rate": 49593
+    },
+    {
+      "code": "HUF",
+      "currency": "صد فورینت مجارستان (HUF)",
+      "rate": 408405
+    },
+    {
+      "code": "IDR",
+      "currency": "هزار روپیه اندونزی (IDR)",
+      "rate": 77931
+    },
+    {
+      "code": "IQD",
+      "currency": "صد دینار عراق (IQD)",
+      "rate": 99956
+    },
+    {
+      "code": "ISK",
+      "currency": "صد کرونا ایسلند (ISK)",
+      "rate": 1068751
+    },
+    {
+      "code": "JOD",
+      "currency": "دینار اردن (JOD)",
+      "rate": 1848606
+    },
+    {
+      "code": "KES",
+      "currency": "صد شیلینگ کنیا (KES)",
+      "rate": 1016091
+    },
+    {
+      "code": "KGS",
+      "currency": "سام قرقیزستان (KGS)",
+      "rate": 14986
+    },
+    {
+      "code": "KWD",
+      "currency": "دینار کویت (KWD)",
+      "rate": 4272304
+    },
+    {
+      "code": "KZT",
+      "currency": "صد تنگه قزاقستان (KZT)",
+      "rate": 262843
+    },
+    {
+      "code": "LBP",
+      "currency": "هزار پوند لبنان (LBP)",
+      "rate": 14610
+    },
+    {
+      "code": "LKR",
+      "currency": "ده روپیه سریلانکا (LKR)",
+      "rate": 42361
+    },
+    {
+      "code": "LYD",
+      "currency": "دینار لیبی (LYD)",
+      "rate": 210202
+    },
+    {
+      "code": "MAD",
+      "currency": "درهم مراکش (MAD)",
+      "rate": 143465
+    },
+    {
+      "code": "MMK",
+      "currency": "کیات برمه (MMK)",
+      "rate": 624
+    },
+    {
+      "code": "MXN",
+      "currency": "پزو مکزیک (MXN)",
+      "rate": 75787
+    },
+    {
+      "code": "MYR",
+      "currency": "رینگیت مالزی (MYR)",
+      "rate": 332064
+    },
+    {
+      "code": "NAD",
+      "currency": "دلار نامیبیا (NAD)",
+      "rate": 85407
+    },
+    {
+      "code": "NIO",
+      "currency": "کوردوبا نیکاراگوئه (NIO)",
+      "rate": 35647
+    },
+    {
+      "code": "NOK",
+      "currency": "کرون نروژ (NOK)",
+      "rate": 135814
+    },
+    {
+      "code": "NPR",
+      "currency": "صد روپیه نپال (NPR)",
+      "rate": 898688
+    },
+    {
+      "code": "NZD",
+      "currency": "دلار نیوزلند (NZD)",
+      "rate": 786396
+    },
+    {
+      "code": "OMR",
+      "currency": "ریال عمان (OMR)",
+      "rate": 3407574
+    },
+    {
+      "code": "PHP",
+      "currency": "صد پزو فیلیپین (PHP)",
+      "rate": 2236976
+    },
+    {
+      "code": "PKR",
+      "currency": "صد روپیه پاکستان (PKR)",
+      "rate": 468588
+    },
+    {
+      "code": "PLN",
+      "currency": "زلوتی لهستان (PLN)",
+      "rate": 368389
+    },
+    {
+      "code": "QAR",
+      "currency": "ریال قطر (QAR)",
+      "rate": 360072
+    },
+    {
+      "code": "RON",
+      "currency": "لئو رومانی (RON)",
+      "rate": 304618
+    },
+    {
+      "code": "RSD",
+      "currency": "دینار صربستان (RSD)",
+      "rate": 13220
+    },
+    {
+      "code": "RWF",
+      "currency": "ده فرانک روآندا (RWF)",
+      "rate": 8996
+    },
+    {
+      "code": "SAR",
+      "currency": "ریال عربستان (SAR)",
+      "rate": 349510
+    },
+    {
+      "code": "SEK",
+      "currency": "کرون سوئد (SEK)",
+      "rate": 146312
+    },
+    {
+      "code": "SGD",
+      "currency": "دلار سنگاپور (SGD)",
+      "rate": 1032678
+    },
+    {
+      "code": "SYP",
+      "currency": "پوند سوریه (SYP)",
+      "rate": 11482
+    },
+    {
+      "code": "THB",
+      "currency": "صد بات تایلند (THB)",
+      "rate": 4194576
+    },
+    {
+      "code": "TJS",
+      "currency": "سومونی تاجیکستان (TJS)",
+      "rate": 139745
+    },
+    {
+      "code": "TMT",
+      "currency": "منات ترکمنستان (TMT)",
+      "rate": 374671
+    },
+    {
+      "code": "TND",
+      "currency": "دینار تونس (TND)",
+      "rate": 358649
+    },
+    {
+      "code": "TRY",
+      "currency": "لیر جدید ترکیه (TRY)",
+      "rate": 30114
+    },
+    {
+      "code": "TWD",
+      "currency": "دلار جدید تایوان (TWD)",
+      "rate": 41611
+    },
+    {
+      "code": "TZS",
+      "currency": "صد شیلینگ تانزانیا (TZS)",
+      "rate": 51125
+    },
+    {
+      "code": "UAH",
+      "currency": "هیری ونا اوکراین (UAH)",
+      "rate": 30420
+    },
+    {
+      "code": "UGX",
+      "currency": "هزار شیلینگ اوگاندا (UGX)",
+      "rate": 369900
+    },
+    {
+      "code": "UYU",
+      "currency": "پزو اروگوئه (UYU)",
+      "rate": 34188
+    },
+    {
+      "code": "UZS",
+      "currency": "سام ازبکستان (UZS)",
+      "rate": 108
+    },
+    {
+      "code": "VES",
+      "currency": "بولیوار ونزوئلا (VES)",
+      "rate": 3529
+    },
+    {
+      "code": "VND",
+      "currency": "هزار دنگ ویتنام (VND)",
+      "rate": 50415
+    },
+    {
+      "code": "XAF",
+      "currency": "صد فرانک جامعه آفریقای مرکزی (XAF)",
+      "rate": 236595
+    },
+    {
+      "code": "XDR",
+      "currency": "حق برداشت مخصوص (XDR)",
+      "rate": 1801270
+    },
+    {
+      "code": "XOF",
+      "currency": "صد فرانک جامعه آفریقایی (XOF)",
+      "rate": 236595
+    },
+    {
+      "code": "YER",
+      "currency": "روپیه صد ریال یمن (YER)",
+      "rate": 549960
+    },
+    {
+      "code": "ZAR",
+      "currency": "رند آفریقای جنوبی (ZAR)",
+      "rate": 81675
+    }
+  ],
+  "count": 80,
+  "updated_at": "2026-09-01T21:01:20.020Z",
+  "message": "نرخ ارز گمرک"
+}
