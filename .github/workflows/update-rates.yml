@@ -3,7 +3,7 @@ name: Update Customs Exchange Rates
 on:
   schedule:
     # اجرا هر ۶ ساعت یک‌بار (قابل تغییر)
-    - cron: '0 */6 * * *'
+    - cron: '0 */24 * * *'
   workflow_dispatch: # امکان اجرای دستی از تب Actions
 
 permissions:
